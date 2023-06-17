@@ -1,0 +1,5 @@
+syntax errors or compilation errors
+array out of bounds
+infinite loop
+type errors
+declaration errors

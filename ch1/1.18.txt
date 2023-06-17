@@ -1,0 +1,2 @@
+no number repeated case --> works fine, it prints every number is occured once
+only two equal values --> only those equal values it says 2 times, for other values it says occured once
