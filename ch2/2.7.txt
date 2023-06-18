@@ -1,0 +1,4 @@
+a) Not sure
+b) 3.14 double
+c) 1024 float
+d) 3.14 long double

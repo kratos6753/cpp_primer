@@ -1,0 +1,4 @@
+a) syntax error, int datatype should not be there
+b) datatype mismatch, as parenthesis should not be there
+c) if wage is declared earlier, the code is valid
+d) valid

@@ -1,0 +1,14 @@
+difference between int, long, long long, short is the range of values they support
+let's say, 
+int is 2 or 4 bytes
+long is 4 bytes
+long long is 8 bytes
+short is 2 bytes
+
+difference between signed and unsigned type
+in unsigned type, the range covers only positive numbers
+in signed type, the range covers both positive and negative numbers
+
+difference between float and double
+float is 4 bytes
+double is 8 bytes

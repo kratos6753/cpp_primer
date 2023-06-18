@@ -1,0 +1,5 @@
+all are valid
+a) r2 is pointing to double value
+b) r2 pointing to r1
+c) i is assigned value of r2
+d) r1 is pointing to d

@@ -1,0 +1,4 @@
+a) it is valid
+b) 1.01 is not lvalue
+c) it is valid
+d) it is invalid as reference requires an initialization (note: nullptr is not valid assignment)

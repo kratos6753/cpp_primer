@@ -1,0 +1,5 @@
+intial values of
+global_str --> ""
+global_int --> 0
+local_int --> random int
+local_str --> ""

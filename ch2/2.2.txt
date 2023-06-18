@@ -1,0 +1,4 @@
+To calculate mortgage payment, rate is double, principal is long and payment is double
+generally principal is long rather than double
+rate is double because it can be 8.5% etc.
+payment calculation should be precise and results in double datatype

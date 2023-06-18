@@ -1,0 +1,5 @@
+a) it is invalid as double is reserved keyword
+b) it is invalid as single underscore is not a valid variable
+c) it is invalid as hyphen in variable is not allowed
+d) it is invalid as variable starts with either underscore or letter
+e) it is valid

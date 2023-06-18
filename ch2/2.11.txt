@@ -1,0 +1,3 @@
+a) it is definition
+b) it is definition
+c) it is declaration

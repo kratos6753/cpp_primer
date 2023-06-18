@@ -1,0 +1,4 @@
+'a' --> char, L'a' --> wide char, "a" --> string, L"a" --> wide char string
+10 --> int, 10u --> unsigned int, 10L --> long, 10uL --> unsigned long, 012 --> octal, 0xC --> hexadecimal
+3.14 --> double, 3.14f --> float, 3.14L --> long double
+10 --> int, 10u --> unsigned int, 10. --> double, 10e-2 --> double
