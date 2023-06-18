@@ -4,4 +4,11 @@
 // writing each transaction to the standard output
 int main()
 {
+    Sales_item item;
+    while (std::cin >> item)
+    {
+        std::cout << item << std::endl;
+    }
+
+    return 0;
 }
